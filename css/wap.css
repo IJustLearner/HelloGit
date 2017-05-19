@@ -49,7 +49,7 @@ a, body {
 }
 
 .side-bar .nav a {
-  margin:0 8%;
+  margin:0;
   
   font-weight: 700;
   float:left;
