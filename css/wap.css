@@ -35,7 +35,7 @@ a, body {
 
 .side-bar .nav a {
   display: block;
-  padding: 5px;
+  padding: 0px;
   color: #888;
   -webkit-transition: color 200ms;
   -o-transition: color 200ms;
