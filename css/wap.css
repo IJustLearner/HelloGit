@@ -33,8 +33,7 @@ a, body {
 }
 */
 
-.side-bar .nav a,
-.side-bar .tag-list a {
+.side-bar .nav a {
   display: block;
   padding: 5px;
   color: #888;
