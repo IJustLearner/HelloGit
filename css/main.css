@@ -22,8 +22,7 @@ a, body {
   padding: 10px 15px;
 }
 
-.side-bar .nav a,
-.side-bar .tag-list a {
+.side-bar .nav a {
   display: block;
   padding: 5px;
   color: #888;
@@ -32,8 +31,7 @@ a, body {
   transition: color 200ms;
 }
 
-.side-bar .nav a:hover,
-.side-bar .tag-list a:hover {
+.side-bar .nav a:hover {
   color: #eee;
 }
 
