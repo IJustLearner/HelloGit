@@ -23,8 +23,8 @@ a, body {
 }
 
 .side-bar .nav a {
-  display: block;
-  padding: 5px;
+  /*display: block;
+  padding: 5px;*/
   color: #888;
   -webkit-transition: color 200ms;
   -o-transition: color 200ms;
@@ -35,10 +35,15 @@ a, body {
   color: #eee;
 }
 
-.side-bar .nav a {
-  font-weight: 700;
+ul {  
+   list-style:none;  
+   padding-left: 5%;
+   line-height: 2.0;
+   font-weight: 700;
+}  
+ul .menu {
+	display: none;
 }
-
 .main {
   float: right;
   width: 75%;
